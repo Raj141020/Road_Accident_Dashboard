@@ -38,7 +38,7 @@ This project demonstrates the process of designing and developing a **dynamic an
 
 ## Project Link
 - You can download the full project and Excel file from the following link:
-  - [Download Project]([https://drive.google.com/drive/folders/1eYltm2-8t8V83rEtvKRH0AnPBY7Hr7eG?usp=drive_link])
+  - [Download Project](https://drive.google.com/drive/folders/1eYltm2-8t8V83rEtvKRH0AnPBY7Hr7eG?usp=drive_link)
 
 ## Getting Started
 ### Prerequisites
