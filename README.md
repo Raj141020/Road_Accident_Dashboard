@@ -31,14 +31,14 @@ This project demonstrates the process of designing and developing a **dynamic an
 - **Excel Formulas & Functions**: Using functions for aggregation, data cleaning, and creating custom columns.
 
 ## How to Use the Dashboard
-1. Download the Excel file from [https://drive.google.com/drive/folders/1eYltm2-8t8V83rEtvKRH0AnPBY7Hr7eG?usp=drive_link](your_project_link_here).
+1. Download the Excel file from https://drive.google.com/drive/folders/1eYltm2-8t8V83rEtvKRH0AnPBY7Hr7eG?usp=drive_link.
 2. Open the file in Microsoft Excel.
 3. Use slicers to filter data by area type (rural vs. urban), year, month, etc., and watch the charts dynamically update.
 4. Explore the dashboard to analyze road accident data and trends over time.
 
 ## Project Link
 - You can download the full project and Excel file from the following link:
-  - [Download Project]([your_project_link_here](https://drive.google.com/drive/folders/1eYltm2-8t8V83rEtvKRH0AnPBY7Hr7eG?usp=drive_link))
+  - [Download Project]([https://drive.google.com/drive/folders/1eYltm2-8t8V83rEtvKRH0AnPBY7Hr7eG?usp=drive_link])
 
 ## Getting Started
 ### Prerequisites
